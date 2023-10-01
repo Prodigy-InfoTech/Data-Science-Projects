@@ -12,5 +12,3 @@ If you'd like to contribute to this repository, please refer to the contributing
 Please note that by contributing to this repository, you agree to abide by the [Code of Conduct](https://github.com/Prodigy-InfoTech/.github/blob/main/CODE_OF_CONDUCT.md). We expect all contributors to be respectful and considerate of others' work and opinions. Any violations of this code will not be tolerated.
 
 Happy data science exploration and collaboration!
-
-Follow our [Contribution](https://github.com/Prodigy-InfoTech/.github/blob/main/CONTRIBUTING.md) Guidelines before submitting your Project
