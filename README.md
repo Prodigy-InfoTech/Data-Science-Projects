@@ -6,6 +6,7 @@ Note for Prodigy InfoTech Interns: Any additional projects under taken by you wi
 ## Contributing
 
 If you'd like to contribute to this repository, please refer to the contributing guidelines provided in the [CONTRIBUTING](https://github.com/Prodigy-InfoTech/.github/blob/main/CONTRIBUTING.md) file. We welcome your contributions and appreciate your help in making this repository even better!
+We particularly appreciate well-documented and commented code to help others understand your work.
 
 ## Code of Conduct
 
