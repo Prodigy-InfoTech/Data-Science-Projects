@@ -1,3 +1,5 @@
+## Important Update : As the Dataset is huge hence its compressed. 
+
 # Global Earth Temperatures Analysis
 
 During my research, it was found that there has been a global increasing trend in temperature, particularly over the last 30 years. This alarming trend is primarily attributed to the various activities of humankind, particularly the emission of greenhouse gases into the atmosphere. In more developed countries, the rise in temperature started earlier, and over time, the accuracy of temperature observations has improved, which is a natural progression.
